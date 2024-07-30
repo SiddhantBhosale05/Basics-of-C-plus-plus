@@ -1,6 +1,6 @@
 # Hello-World-and-Calculator
 Experiment 1
-# AIM - 
+# AIM
 To Print "Hello World" and program a simple calculator in C++
 
 ## Theory
