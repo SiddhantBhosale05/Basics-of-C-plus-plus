@@ -1,4 +1,4 @@
-# Hello-World-and-Calculator
+# Basics of C++
 Experiment 1
 # AIM
 To Print "Hello World" and program a simple calculator in C++
